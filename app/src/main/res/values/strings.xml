@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ACAplicacionSensores1610</string>
+    <string name="x_coord">X: %f</string>
+    <string name="y_coord">Y: %f</string>
+    <string name="z_coord">Z: %f</string>
+    <string name="eje_x">Eje X:</string>
+    <string name="eje_y">Eje Y:</string>
+    <string name="eje_z">Eje Z:</string>
+    <string name="sensor_fusion_title">Sensor Fusion Suite</string>
+    <string name="sensor_fusion_subtitle">See Motion in Perfect Harmony</string>
+</resources>
